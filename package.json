@@ -1,6 +1,6 @@
 {
     "name": "az-storage-sas-decoded",
-    "version": "0.0.1f",
+    "version": "0.0.1g",
     "description": "Decode Azure Storage SAS token",
     "main": "lib/es5/index.js",
     "module": "lib/es6/index.js",
