@@ -1,0 +1,35 @@
+{
+    "name": "az-storage-sas-decoded",
+    "version": "0.0.1e",
+    "description": "Decode Azure Storage SAS token",
+    "main": "lib/es5/index.js",
+    "module": "lib/es6/index.js",
+    "sideEffects": false,
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/pnwdev-ham/az-storage-sas-decoded"
+    },
+    "files": [
+      "lib",
+      "CHANGELOG.md",
+      "LICENSE",
+      "package.json",
+      "README.md"
+    ],
+    "keywords": [
+      "javascript",
+      "azure",
+      "storage",
+      "sas",
+      "decode",
+      "token",
+      "shared access signature"
+    ],
+    "author": "Dina Berry",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/pnwdev-ham/az-storage-sas-decoded/issues"
+    },
+    "homepage": "https://github.com/pnwdev-ham/az-storage-sas-decoded#readme"
+  }
+  
